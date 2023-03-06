@@ -73,21 +73,21 @@ export const traditionaldb=[
         "price":"1000/-",
         "artist":"bhagendra singh"
     },
-    {   "name":"Rajasthani women",
+    {   "name":"Arnolfini Portrait",
         "img":'/assets/images/tr8.jpg',
         "title":"art10",
         "height":"100",
         "width":"300",
         "price":"1000/-",
-        "artist":"bhagendra singh"
+        "artist":"Jan van Eyck"
     },
-    {   "name":"Rajasthani women",
+    {   "name":"indiantradition",
         "img":'/assets/images/img15.jpg',
         "title":"art11",
         "height":"100",
         "width":"300",
         "price":"1000/-",
-        "artist":"bhagendra singh"
+        "artist":"Jan van Eyck"
     },
     {   "name":"Rajasthani women",
         "img":'/assets/images/img14.jpg',
@@ -263,7 +263,7 @@ export const spraydb=[
         "price":"1000",
         "artist":"Yujin Philips"
     },
-    {   "name":"Rajasthani women",
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/sp7.jpg',
         "title":"Art7",
         "height":"100",
@@ -287,7 +287,7 @@ export const spraydb=[
         "price":"1000/-",
         "artist":"Yujin Philips"
     },
-    {   "name":"Rajasthani women",
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/sp10.jpg',
         "title":"Art10",
         "height":"100",
@@ -303,7 +303,7 @@ export const spraydb=[
         "price":"1000/-",
         "artist":"Yujin Philips"
     },
-    {   "name":"Rajasthani women",
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/sp12.jpg',
         "title":"Art12",
         "height":"100",
@@ -321,7 +321,7 @@ export const spraydb=[
 
 ]
 export const waterdb=[
-    {
+    {  "name":"The Raft of the Medusa",
         "img":'/assets/images/wt1.jpg',
         "title":"Art1",
         "height":"100",
@@ -329,144 +329,194 @@ export const waterdb=[
         "price":"1000/-",
         "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/wt2.jpg',
         "title":"Art2",
         "height":"100",
         "width":"300",
-        "price":"1000/-"
+        "price":"1000/-",
+        "artist":"Yujin Philips"
     },
    
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/wt3.jpg',
         "title":"Art3",
         "height":"100",
         "width":"300",
-        "price":"1000/-"
+        "price":"1000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/wt4.jpg',
         "title":"Art4",
         "height":"100",
         "width":"300",
-        "price":"4000/-"
+        "price":"4000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/wt12.jpg',
         "title":"Art5",
         "height":"100",
         "width":"300",
-        "price":"1000/-"
+        "price":"1000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/wt5.jpg',
         "title":"Art6",
         "height":"100",
         "width":"300",
-        "price":"1000/-"
+        "price":"1000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/wt6.jpg',
         "title":"Art7",
         "height":"100",
         "width":"500",
-        "price":"1000/-"
+        "price":"1000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/wt7.jpg',
         "title":"Art8",
         "height":"100",
         "width":"300",
-        "price":"1000/-"
+        "price":"1000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/wt8.jpg',
         "title":"Art9",
         "height":"100",
         "width":"300",
-        "price":"1000/-"
+        "price":"1000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/wt9.jpg',
         "title":"Art10",
         "height":"200",
         "width":"300",
-        "price":"1000/-"
+        "price":"1000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/wt10.jpg',
         "title":"Art11",
         "height":"100",
         "width":"300",
-        "price":"1000/-"
+        "price":"1000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/wt11.jpg',
         "title":"Art12",
         "height":"100",
         "width":"300",
-        "price":"7000/-"
+        "price":"7000/-",
+        "artist":"Yujin Philips"
     }
    
 ]
 export const westdb=[
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/w1.jpg',
         "title":"Art1",
         "height":"100",
         "width":"300",
-        "price":"1000/-"
+        "price":"1000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/w2.jpg',
         "title":"Art2",
         "height":"100",
         "width":"300",
-        "price":"1000/-"
+        "price":"1000/-",
+        "artist":"Yujin Philips"
     },
    
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/w3.jpg',
         "title":"Art3",
         "height":"100",
         "width":"300",
-        "price":"7000/-"
+        "price":"7000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/w4.jpg',
-        "title":"Art4"
+        "title":"Art4",
+        "height":"100",
+        "width":"300",
+        "price":"7000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/w5.jpg',
-        "title":"Art5"
+        "title":"Art5",
+        "height":"100",
+        "width":"300",
+        "price":"7000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/w6.jpg',
-        "title":"Art6"
+        "title":"Art6",
+        "height":"100",
+        "width":"300",
+        "price":"7000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/w7.jpg',
-        "title":"Art7"
+        "title":"Art7",
+        "height":"100",
+        "width":"300",
+        "price":"7000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/w8.jpg',
-        "title":"Art8"
+        "title":"Art8",
+        "height":"100",
+        "width":"300",
+        "price":"7000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {  "name":"The Raft of the Medusa",
         "img":'/assets/images/w9.jpg',
-        "title":"Art9"
+        "title":"Art9",
+        "height":"100",
+        "width":"300",
+        "price":"7000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/w10.jpg',
-        "title":"Art10"
+        "title":"Art10",
+        "height":"100",
+        "width":"300",
+        "price":"7000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/w11.jpg',
-        "title":"Art11"
+        "title":"Art11",
+        "height":"100",
+        "width":"300",
+        "price":"7000/-",
+        "artist":"Yujin Philips"
     },
-    {
+    {   "name":"The Raft of the Medusa",
         "img":'/assets/images/w12.jpg',
-        "title":"Art12"
+        "title":"Art12",
+        "height":"100",
+        "width":"300",
+        "price":"7000/-",
+        "artist":"Yujin Philips"
     }
 ]
 
