@@ -202,7 +202,7 @@ export const digitaldb=[
         "artist":"bhagendra singh"
     },
     {   "name":"Indian Women",
-        "img":'/assets/images/dig1.jpg',
+        "img":'/assets/images/digex.jpg',
         "title":"Art12",
         "height":"100",
         "width":"300",
@@ -375,8 +375,8 @@ export const waterdb=[
         "title":"Art7",
         "height":"100",
         "width":"500",
-        "price":"1000/-",
-        "artist":"Yujin Philips"
+        "price":"10000/-",
+        "artist":"piccasso"
     },
     {   "name":"The Raft of the Medusa",
         "img":'/assets/images/wt7.jpg',

@@ -12,6 +12,7 @@ import { SinglespComponent } from './pages/singlesp/singlesp.component';
 import { SingleweComponent } from './pages/singlewe/singlewe.component';
 import { SinglewtComponent } from './pages/singlewt/singlewt.component';
 import { TradiComponent } from './pages/tradi/tradi.component';
+import { PaymentComponent } from './payment/payment.component';
 import { SprayComponent } from './spray/spray.component';
 import { WaterComponent } from './water/water.component';
 import { WesternComponent } from './western/western.component';
@@ -66,7 +67,9 @@ const routes: Routes = [
 {
   path:'singlewe',component:SingleweComponent
 },
-
+{
+  path:'payment',component:PaymentComponent
+}
 
 ];
 

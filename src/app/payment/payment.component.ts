@@ -1,12 +1,13 @@
 import { Component } from '@angular/core';
 import { Router } from '@angular/router';
-import { GalleryService } from 'src/app/gallery.service';
+import { GalleryService } from '../gallery.service';
+
 @Component({
-  selector: 'app-singledig',
-  templateUrl: './singledig.component.html',
-  styleUrls: ['./singledig.component.css']
+  selector: 'app-payment',
+  templateUrl: './payment.component.html',
+  styleUrls: ['./payment.component.css']
 })
-export class SingledigComponent {
+export class PaymentComponent {
   dig:any
   constructor(private d:GalleryService,private router:Router){}
   ngOnInit(){
@@ -15,8 +16,8 @@ export class SingledigComponent {
     this.dig=arrd.filter(e=>e.title==idd)
    
   }
-  gotoHere(id:any){
-    localStorage.setItem('id',id);
-    this.router.navigate(['payment']);
+  gotohome(){
+    this.router.navigate(['/home'])
   }
+
 }

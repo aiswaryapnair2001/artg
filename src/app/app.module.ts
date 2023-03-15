@@ -21,6 +21,7 @@ import { SingledigComponent } from './pages/singledig/singledig.component';
 import { SinglespComponent } from './pages/singlesp/singlesp.component';
 import { SinglewtComponent } from './pages/singlewt/singlewt.component';
 import { SingleweComponent } from './pages/singlewe/singlewe.component';
+import { PaymentComponent } from './payment/payment.component';
 
 
 @NgModule({
@@ -44,6 +45,7 @@ import { SingleweComponent } from './pages/singlewe/singlewe.component';
     SinglespComponent,
     SinglewtComponent,
     SingleweComponent,
+    PaymentComponent,
     
   ],
   imports: [
