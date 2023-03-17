@@ -1,13 +1,17 @@
 .py-5{
-    color:rgb(166,248,141);
+    color:rgb(16, 17, 16);
 }
 
 .g-5{
-    color:rgb(166,248,141) ;
+    color:rgb(16, 17, 16) ;
 }
 
 .g-5 h3{
     position: relative;
     right: 75px;
-    color: whitesmoke;
+    color:blueviolet;
+}
+.container-fluid
+{
+    background-size: cover;
 }

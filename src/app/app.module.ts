@@ -22,6 +22,10 @@ import { SinglespComponent } from './pages/singlesp/singlesp.component';
 import { SinglewtComponent } from './pages/singlewt/singlewt.component';
 import { SingleweComponent } from './pages/singlewe/singlewe.component';
 import { PaymentComponent } from './payment/payment.component';
+import { initializeApp,provideFirebaseApp } from '@angular/fire/app';
+import { environment } from '../environments/environment';
+import { provideAuth,getAuth } from '@angular/fire/auth';
+import { provideFirestore,getFirestore } from '@angular/fire/firestore';
 
 
 @NgModule({
@@ -50,7 +54,10 @@ import { PaymentComponent } from './payment/payment.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    provideFirebaseApp(() => initializeApp(environment.firebase)),
+    provideAuth(() => getAuth()),
+    provideFirestore(() => getFirestore())
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "miniproject-efa62": {
+      "hosting": {
+        "artg": [
+          "miniproject-efa62"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "miniproject-efa62"
+  }
+}
